@@ -6,7 +6,7 @@ Recebe uma equação polinomial de grau N fornecido pelo usuário, então procur
 
 Além das informações principais, também recebe o alcance da busca no eixo X e o número de tentativas máximo realizadas pelo programa.
 
-# Ideias que cogito aplicar:
+# Ideias que cogito aplicar
 - Gran-Schmidt
 - Desenhar gráficos de funções (?)
 - LD e LI
